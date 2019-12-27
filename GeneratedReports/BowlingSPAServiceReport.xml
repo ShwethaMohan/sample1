@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.7.922.0">
+  <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="55-0E-29-16-B3-EB-4C-56-F0-D5-39-08-D9-18-AD-69-F1-64-D9-E8">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</ModulePath>
+      <ModuleTime>2019-07-25T23:06:22.9206503Z</ModuleTime>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="C3-AA-1C-1C-8E-82-1A-33-B0-D2-15-D7-67-2F-0B-23-E3-D3-35-BD">
+      <ModulePath>E:\SonarQube\FirstApplication\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit3-console.exe</ModulePath>
+      <ModuleTime>2019-03-24T10:53:50Z</ModuleTime>
+      <ModuleName>nunit3-console</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E5-59-C6-FC-25-3D-4F-63-13-7A-12-DC-C3-3E-F3-A8-9F-49-A3-D6">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2019-07-24T03:27:10Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="56-19-46-EE-B2-F2-BE-59-B4-C3-2F-4A-6E-93-59-8A-52-CC-E1-25">
+      <ModulePath>E:\SonarQube\FirstApplication\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit.engine.api.dll</ModulePath>
+      <ModuleTime>2019-03-24T10:53:50Z</ModuleTime>
+      <ModuleName>nunit.engine.api</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F3-B1-83-1B-09-4C-8B-4B-4D-F1-AE-22-3B-BF-1C-83-85-41-B0-4C">
+      <ModulePath>E:\SonarQube\FirstApplication\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit.engine.dll</ModulePath>
+      <ModuleTime>2019-03-24T10:53:50Z</ModuleTime>
+      <ModuleName>nunit.engine</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F3-B1-83-1B-09-4C-8B-4B-4D-F1-AE-22-3B-BF-1C-83-85-41-B0-4C">
+      <ModulePath>E:\SonarQube\FirstApplication\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit.engine.dll</ModulePath>
+      <ModuleTime>2019-03-24T10:53:50Z</ModuleTime>
+      <ModuleName>nunit.engine</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="85-2C-0C-0A-04-8A-78-D5-6F-4B-42-A6-C8-C4-51-D2-38-81-DF-A9">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</ModulePath>
+      <ModuleTime>2018-09-15T07:29:49.15399Z</ModuleTime>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="1C-14-6C-36-24-44-FD-FE-0D-97-15-5C-7C-62-31-AE-F8-9D-95-A9">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_64\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</ModulePath>
+      <ModuleTime>2019-05-15T03:41:59.9995647Z</ModuleTime>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="CE-3B-56-1F-B4-21-2D-C5-D3-07-DC-48-EF-D4-EC-E7-0D-5A-F8-5E">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</ModulePath>
+      <ModuleTime>2018-09-15T07:29:49.1383641Z</ModuleTime>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="41-E7-52-4E-E7-9F-10-43-54-6F-CE-76-44-7B-9F-E0-F1-33-EE-FD">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</ModulePath>
+      <ModuleTime>2018-12-07T21:01:00Z</ModuleTime>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="8A-2E-8F-D6-9D-39-02-4A-2F-30-FC-06-42-F7-0F-A8-32-69-07-72">
+      <ModulePath>E:\SonarQube\FirstApplication\packages\NUnit.ConsoleRunner.3.10.0\tools\Mono.Cecil.dll</ModulePath>
+      <ModuleTime>2019-03-24T10:53:50Z</ModuleTime>
+      <ModuleName>Mono.Cecil</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="55-0E-29-16-B3-EB-4C-56-F0-D5-39-08-D9-18-AD-69-F1-64-D9-E8">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</ModulePath>
+      <ModuleTime>2019-07-25T23:06:22.9206503Z</ModuleTime>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="DD-03-C0-F6-30-61-DA-66-3E-7C-57-4F-A1-08-5C-81-F5-6E-EF-AA">
+      <ModulePath>E:\SonarQube\FirstApplication\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit-agent.exe</ModulePath>
+      <ModuleTime>2019-03-24T10:53:50Z</ModuleTime>
+      <ModuleName>nunit-agent</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="56-19-46-EE-B2-F2-BE-59-B4-C3-2F-4A-6E-93-59-8A-52-CC-E1-25">
+      <ModulePath>E:\SonarQube\FirstApplication\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit.engine.api.dll</ModulePath>
+      <ModuleTime>2019-03-24T10:53:50Z</ModuleTime>
+      <ModuleName>nunit.engine.api</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F3-B1-83-1B-09-4C-8B-4B-4D-F1-AE-22-3B-BF-1C-83-85-41-B0-4C">
+      <ModulePath>E:\SonarQube\FirstApplication\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit.engine.dll</ModulePath>
+      <ModuleTime>2019-03-24T10:53:50Z</ModuleTime>
+      <ModuleName>nunit.engine</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E5-59-C6-FC-25-3D-4F-63-13-7A-12-DC-C3-3E-F3-A8-9F-49-A3-D6">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2019-07-24T03:27:10Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="85-2C-0C-0A-04-8A-78-D5-6F-4B-42-A6-C8-C4-51-D2-38-81-DF-A9">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</ModulePath>
+      <ModuleTime>2018-09-15T07:29:49.15399Z</ModuleTime>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="1C-14-6C-36-24-44-FD-FE-0D-97-15-5C-7C-62-31-AE-F8-9D-95-A9">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_64\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</ModulePath>
+      <ModuleTime>2019-05-15T03:41:59.9995647Z</ModuleTime>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="CE-3B-56-1F-B4-21-2D-C5-D3-07-DC-48-EF-D4-EC-E7-0D-5A-F8-5E">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</ModulePath>
+      <ModuleTime>2018-09-15T07:29:49.1383641Z</ModuleTime>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="41-E7-52-4E-E7-9F-10-43-54-6F-CE-76-44-7B-9F-E0-F1-33-EE-FD">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</ModulePath>
+      <ModuleTime>2018-12-07T21:01:00Z</ModuleTime>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="8A-2E-8F-D6-9D-39-02-4A-2F-30-FC-06-42-F7-0F-A8-32-69-07-72">
+      <ModulePath>E:\SonarQube\FirstApplication\packages\NUnit.ConsoleRunner.3.10.0\tools\Mono.Cecil.dll</ModulePath>
+      <ModuleTime>2019-03-24T10:53:50Z</ModuleTime>
+      <ModuleName>Mono.Cecil</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D6-F7-07-23-10-28-AF-AF-FD-23-71-4A-C6-9D-69-30-97-FB-25-29">
+      <ModulePath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2019-05-15T03:44:18Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>

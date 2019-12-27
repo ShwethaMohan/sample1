@@ -1,0 +1,6 @@
+projectKey=FirstApplication
+serverUrl=http://localhost:9500
+serverVersion=7.8.0.26217
+dashboardUrl=http://localhost:9500/dashboard?id=FirstApplication
+ceTaskId=AW8yLqlOJ0JeHRFeedVZ
+ceTaskUrl=http://localhost:9500/api/ce/task?id=AW8yLqlOJ0JeHRFeedVZ

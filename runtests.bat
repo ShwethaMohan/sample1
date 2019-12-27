@@ -1,0 +1,1 @@
+E:\SonarQube\FirstApplication\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit3-console.exe E:\SonarQube\FirstApplication\BasicTest\bin\Debug\BasicTest.dll
