@@ -41,7 +41,7 @@ steps:
     arguments: '--configuration $(buildConfiguration)'
 
 # do this after your tests have run
-- script: dotnet test <test-project> --logger trx
+- script: dotnet test <BasicTest> --logger trx
 - task: PublishTestResults@2
   condition: succeededOrFailed()
   inputs:
